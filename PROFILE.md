@@ -1,2 +1,2 @@
 Welcome to my GitHub profile!
-make changes
+let's see how to merge
